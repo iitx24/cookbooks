@@ -1,0 +1,16 @@
+{
+  "id": "kk996e",
+  "home": "/home/kk996e",
+  "ssh_keys": "ssh-rsa AAAAB3NzaC1yc2EAAAABIwAAAQEAyASG4h7lmkZ5itNQF51NBOWh9qwTYuHFTw6QE59eVowpxhy8eIeQ2WvNK5LHo3jLgm4nJ9b8YY6mLm5PgMUOAPu+f196oE7rs5H5rAc5RPABVgryIOfTbnnEb3NyTDOjgeyAhK5df7tzFekO39O9LrEMaZYe5lEBSGQGITVMcNMyIgTEJjZKjqIw0p6gFw/PwydyB+RVmsU+RFtPS8Fcv+lSY+941rAoqAJQkUBwY+qUlIy8UHliQoxQwCJq8uSr9jBH3Dauo6hAHg6uB+zYhfD3sxEAxBwEaNgOkh3r6xcTihGr37DLhpFAESGJ0GPV216yfqfUNNhHPQb0lUC25w== kk996e@server-3267",
+  "gid": "asgapp",
+  "nagios": {
+    "pager": "8005551212@txt.att.net",
+    "email": "kk996e@att.com"
+  },
+  "comment": "////Kiran Konchada       - Application Users",
+  "uid": 2210,
+  "shell": "/bin/bash",
+  "groups": [
+    "asgapp"
+  ]
+}

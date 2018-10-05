@@ -1,0 +1,18 @@
+{
+  "env_run_lists": {
+    "cspd-common-ewr1-dev": [
+      "recipe[nagios::client]"
+    ]
+  },
+  "override_attributes": {
+  },
+  "chef_type": "role",
+  "json_class": "Chef::Role",
+  "name": "cspd-common",
+  "description": "CSPD Common",
+  "run_list": [
+
+  ],
+  "default_attributes": {
+  }
+}

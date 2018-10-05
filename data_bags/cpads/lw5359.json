@@ -1,0 +1,16 @@
+{
+  "id": "lw5359",
+  "home": "/home/lw5359",
+  "ssh_keys": "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDC0DxKR58yWPt9vHCFgdNmf8/xiuCjfQrxsE1/cyYMYRIfVcDMgHdC71zab/oisp9pHh+ZGjo2+zE6/WYMZKGL3mZbf+VWOOBbnF41x51qSc0teQU/puBL5cBjJa4z3U3w5uygjpJ+LeUF4NKowa/iAmEZU+X4GuO1sD0kDwwOKM0kjQdM3tnfgBb9kyhEWM+6efF5vEErNzYLyLWSIBEuKbwf1CoeALacxurwwGqpGISg5+82ztWUgDWepKi9XvUkIrnMA5Ifd6jMHdJXfHvtM02glOgH6A2GdOq5ha94/V05QOLTGz5pvFMzZBgOERlEIxL3f2fm/P0l2j93Y84V",
+  "gid": "cpads",
+  "nagios": {
+    "pager": "8005551212@txt.att.net",
+    "email": "lw5359@att.com"
+  },
+  "comment": "//// Lance Wilson - CPADS",
+  "uid": 2403,
+  "shell": "/bin/bash",
+  "groups": [
+    "cpads"
+  ]
+}

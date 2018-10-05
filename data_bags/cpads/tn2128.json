@@ -1,0 +1,16 @@
+{
+  "id": "tn2128",
+  "home": "/home/tn2128",
+  "ssh_keys": "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDZdv8OwC3lsv+aTY7RrKUvq59orllzRQgSV14HqwTUHcgMfNQibAWHW2fTXbefToAbQ+Oj8Qh44CmABHgH0bYqbgY7SfWTp2PeJBFDn6xH078fsctd3rjrEfN1Izcbb7gPktxj39ZnyV5gNqceatfVqbgxGj6q0C8RRtvl0rggG6juDLd2LrFsFXx0r+DYwSNWZZrglCC1QcsOWnIPjFgER66Soja5adpjJqH+fF2cfGZK7e5NrRU1NGpEt5UPuZxKXAuuNh7iiBvn7MORnTsJlGJopin9WukzK0JB+1Te98e68JXQ1epykdlUM6SgdQ4vCU83q4tY3KB+r4zASBNR",
+  "gid": "cpads",
+  "nagios": {
+    "pager": "8005551212@txt.att.net",
+    "email": "tn2128@att.com"
+  },
+  "comment": "//// NGUYEN, KAYE - CPADS",
+  "uid": 2405,
+  "shell": "/bin/bash",
+  "groups": [
+    "cpads"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": "bg1317",
+  "home": "/home/bg1317",
+  "ssh_keys": "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDRzSoAB99RjJp1QA5dLnMlA8Rmnk/6Vjh4ST8mCJydlLUgl7vnLJtZeI2EfdbXvrD8MCHUicNzxos9dcnC6RQqdD5N966oHDus+DIHQxexR/OU993tmKau9HT3Kvf3FD07twgSFUbbeo9GsToCpuloeq4oJ/WWpzzJTw4uhcceu8x/VfG+wVXZ2u7JzyonNxB0CbbV8CE5RU6qrMTpV9ozlfHI3VhkDfUBePGzYhbM6LTpkhC17K01G9iz2kPltxSXk1iRroARPvEpKj4iCEPvkHedx0x48u50hhBPtpxRA0yTbzgc+SzJvat+Nvj5A2YN6UynObGke/9oA5mSwEot",
+  "gid": "cpads",
+  "nagios": {
+    "pager": "8005551212@txt.att.net",
+    "email": "bg1317@att.com"
+  },
+  "comment": "//// Diane Kretlow - CPADS",
+  "uid": 2404,
+  "shell": "/bin/bash",
+  "groups": [
+    "cpads"
+  ]
+}

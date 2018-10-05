@@ -1,0 +1,14 @@
+{
+  "id": "hp075e",
+  "ssh_keys": "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQC2P5gw0tXQQF/eksZHzSaU4gFQyfv9y7Tgycp2WufSAacUHcLHYaOfwFV3nOmy86gfwBCABKui3wDrrZwMS6WZXI00WWgxGg11MKRX6zY0ohdknDtUUEQJn64rIH6aESIUSN+TG2VqN0OPEMqhh1JYDAnRWNk2V/nHnDLj2hsFXI7QMl7zLcJ3sR7TgA3ndfIpdlT+p+rnYbHUhBKBXzXApkQ4z6m554yQ8ZukFuYIOZ6A3V2o4Lcs3LfM6ezIjE8nznPVMtRewEkzIQcyx7vODInLHzdAvVxnOIEOvNStuDnbXN78lSC56YmbUxqy0iy+E/aLl0p+SAYIi4f/w5kp hp075e@precise64",
+  "groups": [ "locker-dbusers"],
+  "uid": 2201,
+  "gid": "locker-dbusers",
+  "shell": "\/bin\/bash",
+  "comment": "////Hemang Patel  - Locker Database User",
+  "home": "/home/hp075e",
+  "nagios": {
+    "pager": "8005551212@txt.att.net",
+    "email": "hp075e@att.com"
+  }
+}

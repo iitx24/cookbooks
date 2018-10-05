@@ -1,0 +1,16 @@
+{
+  "id": "sj875h",
+  "home": "/home/sj875h",
+  "ssh_keys": "ssh-rsa AAAAB3NzaC1yc2EAAAABIwAAAQEAzmDgf0kxdkYq0jpwrqmPqIwtID3qt18+S1YCK8XHSe+s5pQxMJ0b0vjCWIRbPqtNsTaMual+PK8idX2yRcOC3WiWcjMLo9u1wcyxQ7YkxraqIo1d/qPMYUTm/UlE9ZpxWdzrbWT4ag14s+DiTTXmuF4uJSF26VhhJnUE7bcTmcJQq/ioY3105GX76ROxUfMESvM36PkCmhSDVG1jV3J7cR1j/VWpUMYblYnp1jhHOfOA6qqUuaFOg4EDRcFZoyVk7A8vOhu2B8n09kdm3UYxrRXJursN2jp498sKFEZLAN0Bzd7GzO2AQnuBHcxh27Wl+Dc0koI5uHcE3oba5jBKaw== sj875h@server-3267",
+  "gid": "asgapp",
+  "nagios": {
+    "pager": "8005551212@txt.att.net",
+    "email": "sj875h@att.com"
+  },
+  "comment": "////Swapna Jandhyala       - Application Users",
+  "uid": 2097,
+  "shell": "/bin/bash",
+  "groups": [
+    "asgapp"
+  ]
+}

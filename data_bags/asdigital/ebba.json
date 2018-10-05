@@ -1,0 +1,16 @@
+{
+  "id": "ebba",
+  "home": "/home/ebba",
+  "ssh_keys": "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDqNpCjXe4sJGtjNQBLh5PFQUCu9vsgmyor4mrOXgDZLr+4hRGVLypc6sEHUufp7wO3QTbwenV+nSF6DLQqZpbnJA967bZY0VxEEF4snyZjgc04YEH+U85d6FQu31IXlbookAkLBXFbO0l16qfkiflUiA6HvsFRnH7IbbFanubyMzlMWlETII1hwWfZAujLtaXyuzZ1F5i+Ehu8hiFxUfcLjrsE4Z77GJ1iJdjuuaqKuwiwSRzJajf8EEYk5+7xYZFmAKoblTJAe7w5C+S/FALR7dg80FGMVD20dZFIUyhYGxMVZ4UgZdBdlN1WdCXYxKaGdGpzt2a5fRkJiIXQygQF ebba@vagrant-ubuntu-trusty-64",
+  "gid": "asdigital",
+  "nagios": {
+    "pager": "",
+    "email": "ebba.gustavii@artificial-solutions.com"
+  },
+  "comment": "////ebba.gustavii@artificial-solutions.com",
+  "uid": 4202,
+  "shell": "/bin/bash",
+  "groups": [
+    "asdigital"
+  ]
+}

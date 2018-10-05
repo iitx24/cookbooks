@@ -1,0 +1,14 @@
+{
+  "id": "dd0648",
+  "ssh_keys": "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDMwvt28fLY2bUBJp17vBeQ9APYvjT2FIgzvIw2nwWViPGN6o+bh856CIhHvFYmJfQoMEaAefAP0bZCamOZL3Vhozdled0Us75CZOIWg4LXvJEgXVAugVCcq8zEPB1Lklc3d6rkXW9GVRsVKdGzteuw9n8ixLrSwTSII+HvCDCapTZTpuj2LCeGYp0jFqgXFq6qQ3Bat8DShiUozjyvCN/bnvaZ80xHctSf2T0sURmdsk1QmKtDqkopqKa52u/US3G3K92DzPqPBgJFkjVEtShJCPTT9Xx6JGAYDZDot7+fXL7XVMw5BrpySFviC12SCYc9t8QjN2nLnyUzJF2SMNXZ dd0648@precise64",
+  "groups": [ "locker-dbusers"],
+  "uid": 72204,
+  "gid": "locker-dbusers",
+  "shell": "\/bin\/bash",
+  "comment": "////David Deighton  - Locker Application User",
+  "home": "/home/dd0648",
+  "nagios": {
+    "pager": "8005551212@txt.att.net",
+    "email": ""
+  }
+}

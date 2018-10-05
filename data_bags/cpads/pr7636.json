@@ -1,0 +1,16 @@
+{
+  "id": "pr7636",
+  "home": "/home/pr7636",
+  "ssh_keys": "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDKXlMQW4Q41EXPP3/6lg1JMhNoAZX6Q55Hty46/m+BIM7QPmHlARAhaRzZLlYEex3i9Bl+jxgOS+C0qcBqUvnVcuIqRKdxh6oVfsQIgcUb/C1gYRiupca4MuGQ0inVIyQJi1vK+IqjkgEnvQ05SMr6WpcaHC7NXm0YGt+GivlJD/drEHay1/IIAuh4sw8PkF6HryGQnRK/nbPgJoyN+/vtQoUox2Q6cKXjGcgtaCguS+W+IbZhdNavQwS7PXTy6BtxV9XU3/ftJWC3+pPm1190Zp8jiK7VsYRgn2jht+XpWWhma/mLt04Ok/ZI43ttaYAnE1mGI3bitkxhCFsQQwMJ",
+  "gid": "cpads",
+  "nagios": {
+    "pager": "8005551212@txt.att.net",
+    "email": "pr7636@att.com"
+  },
+  "comment": "//// RODRIGUE, PETER - CPADS",
+  "uid": 2406,
+  "shell": "/bin/bash",
+  "groups": [
+    "cpads"
+  ]
+}

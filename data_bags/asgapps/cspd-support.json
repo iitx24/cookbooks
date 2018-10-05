@@ -1,0 +1,16 @@
+{
+  "id": "cspd-support",
+  "home": "/home/cspd-support",
+  "ssh_keys": "ssh-rsa AAAAB3NzaC1yc2EAAAABIwAAAQEA4S8VYnSrpyfRTAXi0xNvU7Z7X4NWbzSK4HDUXQekUgGtLBYiuMFIy7afopyk427JJoH+CQM25GTE4S29qHZ8ApyjZi/0iYm1lagaCvdofTrEth45h/9POi2dJSrni94ECFqER+PcL+JFqHMqSkKuTZhLl8IDIQ5dbJhRpTVB/3rn2X83C5eqrwZD3P0ZHLVOP0PaSHKVnvDt+7hQzinDlYeQ8g2WPNgUQTpNmhSzDW4hZFfbIy+ho+T8sGW4xxgPcfS9Pk+ee5MqGukEpJDmOyfiaZLy/jUNY17OrkkCYjm5QlqjqbAC0IEaH8KUaPcTmCAh4h45ZdWzaLYVoGkAGw== cspd-support@server-3267",
+  "gid": "asgappsupport",
+  "nagios": {
+    "pager": "8005551212@txt.att.net",
+    "email": "cspd-support@asg.bellsouth.net"
+  },
+  "comment": "////cspd-support      - Application Users",
+  "uid": 70001,
+  "shell": "/bin/bash",
+  "groups": [
+    "asgappsupport"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": "cs041q",
+  "home": "/home/cs041q",
+  "ssh_keys": "ssh-rsa AAAAB3NzaC1yc2EAAAABIwAAAQEA3ltYakrP4nEFrWTOHO5uu//ruaHmN/zftbumWEUbhZJ/WgcYRj62TNbumASEpVDUjpB6b+ALeImoA3oK8uJWxm5YlTSq0gVPeipiFzjBpdo9x3rGALE5IHh/USBBefBiPEzCAfZK2Nba83HVZEOwWkgSSRpyhMiwrCV9pUyTnn6RVraqn0NlEK+SIXu/9mMqxKQORFpIyjtcU51X67RxQZhAWkpu15nkB9CSWr8BFv4Hj1DBtRN4A7uougncEZGqLWlyE2l/kq5FSkHxSKp1Jh4GNQgtPOSuT8JzoR69YnWyA5AGbSjCJBj6+5JD56TBqbcGGNDO6vs91/W36r0G3w== cs041q@server-3267",
+  "gid": "asgapp",
+  "nagios": {
+    "pager": "8005551212@txt.att.net",
+    "email": "cs041q@att.com"
+  },
+  "comment": "////Chaitanya Sarvepalli   - Application Users",
+  "uid": 2204,
+  "shell": "/bin/bash",
+  "groups": [
+    "asgapp"
+  ]
+}

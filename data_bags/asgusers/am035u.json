@@ -1,0 +1,14 @@
+{
+  "id": "am035u",
+  "ssh_keys": "ssh-rsa AAAAB3NzaC1yc2EAAAABIwAAAQEA5x616Jjj9dqdLcGLUd81cccQvNOiM8KQP6Y4L7ydbfHMnssbzu+wKctHrc1Wfnhj+7Nh3H1M4EIuxymsm4wMLLoNiN9zvCU1l/MbB2aH2fk7NyFNLJeFpwTdoiStIgKWfE+VEdLTmT7aJQSZN9yTWQoGwWILW1C/F+efOqaansCmMYfckFjjKyOZot/TAX8jlmWZRs8dRbkUCYyMQZAN83xIwfe77+1Vbw0IFFsNWAAaddKl34Xukypwm8eGa901nTJkx3kwJ+0BaQPywxK+cm2jQ9UIIhg4cs9gX7Zy/v+eHpiRMYWf2FeQv17SZCjHMT80oCnkTC+0Bq6nl4NO3Q== am035u@server-2734",
+  "groups": [ "asgops"],
+  "uid": 2202,
+  "gid": "asgops",
+  "shell": "\/bin\/bash",
+  "comment": "////Anil        Mane - ASGOPS",
+  "home": "/home/am035u",
+  "nagios": {
+    "pager": "8005551212@txt.att.net",
+    "email": "amane@asg.bellsouth.net"
+  }
+}

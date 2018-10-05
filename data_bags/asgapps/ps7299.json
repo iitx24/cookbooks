@@ -1,0 +1,16 @@
+{
+  "id": "ps7299",
+  "home": "/home/ps7299",
+  "ssh_keys": "ssh-rsa AAAAB3NzaC1yc2EAAAABIwAAAQEAslunu+xWHe4djzXhdryI51J7Uf9wz1vaz1ypQcVmFrIe1Ts5UhBCAxFXJAtvxm7k1niTFrK8s9lSqtrxqycaOeFupSU+Lv47wnwvduB3rjv58HOe8JAvfhCOarRmbCGcjjzXvIrYy+gLdiXOK/9nczxaB4V/HcImV6SlazhtgzwjLMeAXMZOOeeKjcEgLzK90RroUJ15cX43bdQraQImn3KN68dBUDGUEMY4SYDAYNlQXPNdWwdSgzzUGMHOHPncKinTJOTUS9Sxgt/i90QoDoUvKfVlzTdD+iifauZqeki8n/K9z80YrEWVbLPjX7B+s6TptgciYR5Sbq7t1ckytw== ps7299@server-3267",
+  "gid": "asgapp",
+  "nagios": {
+    "pager": "8005551212@txt.att.net",
+    "email": "ps7299@att.com"
+  },
+  "comment": "////Pankaj Singh           - Application Users",
+  "uid": 2169,
+  "shell": "/bin/bash",
+  "groups": [
+    "asgapp"
+  ]
+}

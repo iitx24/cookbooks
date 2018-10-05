@@ -1,0 +1,16 @@
+{
+  "id": "robin",
+  "home": "/home/robin",
+  "ssh_keys": "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQC65zY1xntzsnupzM/lnJlkV1+j/3TPCOZ9JVIud4oEw8lua8vpkIYnlVpKA0ZXLt80ipwDmHWgYjN2ei5mR+bIiC2GkUD5KNGKX2u7yn8QNOaRVKHhHedfKoBp1tFRLyOvUDEsFp/6g+NI9hK+zBiI8Qmsy6HqumNTBVzawYQDUInXxKO1VKwWDGaVr1B+z6NZavcTKXOcHOBDypWtyOtzCJFbhCpU4DItX0TaPRBUHYAgHKrOdsGsRGUM6JNQBLjsoA/Q0glOcj75ECT1Vgzcr5iv10DaJDWFAgFv4/P/yNK+69xmv0OYLWovjGaK66jMyDXnq+9BrzKlHOhqyZkX robin@vagrant-ubuntu-trusty-64",
+  "gid": "asdigital",
+  "nagios": {
+    "pager": "",
+    "email": ""
+  },
+  "comment": "////robin.munt@artificial-solutions.com",
+  "uid": 4209,
+  "shell": "/bin/bash",
+  "groups": [
+    "asdigital"
+  ]
+}

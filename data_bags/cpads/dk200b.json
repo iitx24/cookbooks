@@ -1,0 +1,16 @@
+{
+  "id": "dk200b",
+  "home": "/home/dk200b",
+  "ssh_keys": "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCpQYZKMtGSXR5A1a0E0WR45bay+Rh2Uu9Mqjii+pJXvixO+zodBHYwss1PnWukDLjN2j1IZncbNH8y71xE7wyw2D39DP/7cdvObaEdauISH2YsBTQJYZSLrQ8AcORKGLgCXXngPb9caffozdtoRI5tt8RffPIS7jmf0Ie5UsP9ia9izUnT87xC4B6V1VvVNFhOMcHx77U0jlNZERwAiqHqvLwozJvI4ibTy7HRi1XEqYve0U+aa8BJImWYwJpE3gCPGrX3kcTqvswYFTmnFid/RKjuZRSLUbOIKQMaZmPRQZ8rWoaexoUA5IIGbkU/2F9wKmRZ+2KWu8fyi1Gevamh",
+  "gid": "cpads",
+  "nagios": {
+    "pager": "8005551212@txt.att.net",
+    "email": "dk200b@att.com"
+  },
+  "comment": "//// Diane Kretlow - CPADS",
+  "uid": 2401,
+  "shell": "/bin/bash",
+  "groups": [
+    "cpads"
+  ]
+}

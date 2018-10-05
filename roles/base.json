@@ -1,0 +1,23 @@
+{
+  "default_attributes": {
+    "nagios": {
+      "server_role": "monitoring"
+    }
+  },
+  "description": "Base role applied to all nodes.",
+  "run_list": [
+    "recipe[nagios::client]",
+    "recipe[users::groups]",
+    "recipe[users::asgappsupport]",
+    "recipe[users::asgapp]",
+    "recipe[users::asgops]",
+    "recipe[users::sudo]"
+  ],
+  "name": "base",
+  "override_attributes": {
+  },
+  "json_class": "Chef::Role",
+  "chef_type": "role",
+  "env_run_lists": {
+  }
+}

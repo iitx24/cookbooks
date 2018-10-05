@@ -1,0 +1,17 @@
+{
+  "json_class": "Chef::Role",
+  "env_run_lists": {
+  },
+  "description": "Speech Application Properties ",
+  "run_list": [
+    "role[base]",
+    "recipe[java-speech]",
+    "recipe[jboss-properties-0.1.0]"
+  ],
+  "chef_type": "role",
+  "override_attributes": {
+  },
+  "name": "speech-properties",
+  "default_attributes": {
+  }
+}
