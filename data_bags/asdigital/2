@@ -1,7 +1,0 @@
-knife bootstrap 10.53.3.13 -x root -i ~anil/dfw3/prod/speech-sql1-prod.pem -N digital-asr2-pdk1-prod	 -E digital-as-pdk1-prod -r role[as-base]     &
-knife bootstrap 10.53.3.12 -x root -i ~anil/dfw3/prod/speech-sql1-prod.pem -N digital-asr1-pdk1-prod	 -E digital-as-pdk1-prod -r role[as-base]     &
-knife bootstrap 10.53.3.10 -x root -i ~anil/dfw3/prod/speech-sql1-prod.pem -N digital-nginx2-pdk1-prod	 -E digital-as-pdk1-prod -r role[as-base]     &
-knife bootstrap 10.53.3.9 -x root -i ~anil/dfw3/prod/speech-sql1-prod.pem -N digital-nginx1-pdk1-prod	 -E digital-as-pdk1-prod -r role[as-base]     &
-knife bootstrap 10.53.3.8 -x root -i ~anil/dfw3/prod/speech-sql1-prod.pem -N digital-teneo3-pdk1-prod	 -E digital-as-pdk1-prod -r role[as-base]     &
-knife bootstrap 10.53.3.7 -x root -i ~anil/dfw3/prod/speech-sql1-prod.pem -N digital-teneo2-pdk1-prod	 -E digital-as-pdk1-prod -r role[as-base]     &
-knife bootstrap 10.53.3.5 -x root -i ~anil/dfw3/prod/speech-sql1-prod.pem -N digital-teneo1-pdk1-prod	 -E digital-as-pdk1-prod -r role[as-base]     &

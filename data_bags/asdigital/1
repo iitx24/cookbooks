@@ -1,9 +1,0 @@
-knife bootstrap 10.43.3.15 -x root -i ~anil/dfw3/prod/speech-sql1-prod.pem -N digital-nagios1-pdk1-prod	 -E digital-as-pdk1-prod -r role[as-base]
-knife bootstrap 10.43.3.14 -x root -i ~anil/dfw3/prod/speech-sql1-prod.pem -N digital-jumpserver1-pdk1-prod	 -E digital-as-pdk1-prod -r role[as-base]
-knife bootstrap 10.43.3.13 -x root -i ~anil/dfw3/prod/speech-sql1-prod.pem -N digital-chef1-pdk1-prod	 -E digital-as-pdk1-prod -r role[as-base]
-knife bootstrap 10.43.3.12 -x root -i ~anil/dfw3/prod/speech-sql1-prod.pem -N digital-activedirectory1-pdk1-prod	 -E digital-as-pdk1-prod -r role[as-base]
-knife bootstrap 10.43.3.11 -x root -i ~anil/dfw3/prod/speech-sql1-prod.pem -N digital-tryout1-pdk1-prod	 -E digital-as-pdk1-prod -r role[as-base]
-knife bootstrap 10.43.3.10 -x root -i ~anil/dfw3/prod/speech-sql1-prod.pem -N digital-teneomanager1-pdk1-prod	 -E digital-as-pdk1-prod -r role[as-base]
-knife bootstrap 10.43.3.9 -x root -i ~anil/dfw3/prod/speech-sql1-prod.pem -N digital-teneoinsight1-pdk1-prod	 -E digital-as-pdk1-prod -r role[as-base]
-knife bootstrap 10.43.3.8 -x root -i ~anil/dfw3/prod/speech-sql1-prod.pem -N digital-teneologroot1-pdk1-prod	 -E digital-as-pdk1-prod -r role[as-base]
-
